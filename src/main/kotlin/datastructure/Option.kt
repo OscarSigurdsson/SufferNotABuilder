@@ -1,0 +1,4 @@
+package datastructure
+
+interface Option {
+}
